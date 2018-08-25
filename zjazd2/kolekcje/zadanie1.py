@@ -1,0 +1,6 @@
+liczby =  (1,2,3,4,5,6,7,8,9,10)
+print("drugi element to" , liczby[2] )
+print("przedostatni elemnt to" , liczby [-2] )
+print("od tzreciegho do siódmego to :" , liczby [2:7] )
+print(" co trzewci elemt :" , liczby [::3])
+print("co drugie od końca:" , liczby [:: -2])
